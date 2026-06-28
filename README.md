@@ -1,6 +1,6 @@
 # Cleanly format any code
 
-[![CI](https://github.com/JJ-Dynamite/codebeautifier/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/codebeautifier/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-codebeautifier/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-codebeautifier/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Cleanly format any code - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/codebeautifier.git
+git clone https://github.com/JJ-Dynamite/faang-codebeautifier.git
 cd codebeautifier
 
 # Install backend dependencies
