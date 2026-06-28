@@ -1,4 +1,4 @@
-# Contributing to faang-codebeautifier
+# Contributing to codebeautifier
 
 Thank you for your interest in contributing!
 

@@ -1,11 +1,11 @@
 [package]
-name = "faang-codebeautifier-backend"
+name = "codebeautifier-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Cleanly format any code - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-codebeautifier"
+repository = "https://github.com/JJ-Dynamite/codebeautifier"
 
 [dependencies]
 axum = "0.7"
